@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Exterminate</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="button_text">EXTERMINATE!</string>
 </resources>
