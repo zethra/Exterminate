@@ -18,21 +18,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="405947f2-88a4-46a0-9c83-896970118da4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="DELETED" beforePath="C:\Users\Zethra\AndroidStudioProjects\Exterminate\app\src\main\res\audio\Exterminate.mp3" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Zethra\AndroidStudioProjects\Exterminate\app\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Zethra\AndroidStudioProjects\Exterminate\app\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Zethra\AndroidStudioProjects\Exterminate\app\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Zethra\AndroidStudioProjects\Exterminate\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/team3637/exterminate/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/team3637/exterminate/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Exterminate.iws" />
@@ -1173,6 +1158,11 @@
       <created>1426527227410</created>
       <updated>1426527227410</updated>
     </task>
+    <task id="LOCAL-00001" summary="App done .. for now.">
+      <created>1426542288411</created>
+      <updated>1426542288411</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1224,6 +1214,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="App done .. for now." />
+    <option name="LAST_COMMIT_MESSAGE" value="App done .. for now." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
